@@ -1,0 +1,9 @@
+{
+	"name": "adf-fernando-prod",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e757749-9361-43b5-9b28-16b53f163374",
+		"tenantId": "51431aa4-7fad-4586-8b8a-4daff6d0f3cc"
+	}
+}
