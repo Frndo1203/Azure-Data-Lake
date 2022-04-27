@@ -11,7 +11,7 @@
 					"type": "LinkedServiceReference"
 				},
 				"secretName": "secret-db-azure",
-				"secretVersion": "213b75eafb72486b80348dd5209a2da5"
+				"secretVersion": "7a10b03b5d52423381672aace3c99332"
 			}
 		}
 	},
